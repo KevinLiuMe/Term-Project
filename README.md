@@ -1,1 +1,1 @@
-# Editor
+# Python Term Project
